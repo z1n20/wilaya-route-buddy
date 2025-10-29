@@ -60,16 +60,7 @@ const Search = () => {
           >
             Wilaygo
           </h1>
-          <div className="flex gap-2">
-            <Button variant="ghost" size="sm" onClick={() => window.location.href = "/login"}>
-              Connexion
-            </Button>
-            <Button variant="secondary" size="sm" onClick={() => window.location.href = "/signup"}>
-              S'inscrire
-            </Button>
-          </div>
-        </nav>
-      </header>
+          
 
       <div className="container mx-auto px-4 py-8">
         {/* Search Form */}
