@@ -81,7 +81,7 @@ const Dashboard = () => {
                 <p className="text-muted-foreground mb-4">
                   Vous n'avez pas encore de réservation
                 </p>
-                <Button variant="hero" onClick={() => window.location.href = "Signup"}>
+                <Button variant="hero" onClick={() => window.location.href = "/"}>
                   Rechercher un trajet
                 </Button>
               </CardContent>
