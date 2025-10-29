@@ -11,7 +11,6 @@ const wilayas = ["Alger", "Sétif", "Oran"];
 const transportTypes = [
   { value: "bus", label: "🚌 Bus", icon: "🚌" },
   { value: "taxi", label: "🚕 Taxi Collectif", icon: "🚕" },
-  { value: "covoiturage", label: "🚗 Covoiturage", icon: "🚗" },
 ];
 
 export const SearchForm = () => {
