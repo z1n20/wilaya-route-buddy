@@ -60,6 +60,9 @@ const Search = () => {
           >
             Wilaygo
           </h1>
+        </nav>
+      </header>
+
       <div className="container mx-auto px-4 py-8">
         {/* Search Form */}
         <div className="mb-8">
